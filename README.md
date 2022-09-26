@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Hakan 🔭 I’m currently working Flutter<br>👯 I’m looking to collaborate on Mobile App Projects<br>🌱 I’m currently learning Flutter, Dart<br>
+👋 Hi, I’m Hakan<br> 🔭 I’m currently working Flutter<br>👯 I’m looking to collaborate on Mobile App Projects<br>🌱 I’m currently learning Flutter, Dart<br>
 
 
 ## 🌐 Socials:
